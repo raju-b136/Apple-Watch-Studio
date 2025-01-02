@@ -90,14 +90,17 @@ const WholeDetails = () => {
   );
 
   const showSizeDetailsComponent = () => {
+    setIndex(0);
     setApiStatus(componentStatusConstants.sizeDetails);
   };
 
   const showCaseDetailsComponent = () => {
+    setIndex(0);
     setApiStatus(componentStatusConstants.caseDetails);
   };
 
   const showBandsDetailsComponent = () => {
+    setIndex(0);
     setApiStatus(componentStatusConstants.bandDetails);
   };
 
