@@ -1,0 +1,39 @@
+.header {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.logo {
+  height: 25px;
+  width: 100px;
+}
+
+.home-section {
+  font-family: sans-serif;
+  padding-left: 25%;
+  margin-top: 50px;
+}
+.home-section-heading {
+  font-size: 48px;
+  margin-top: -10px;
+}
+.home-section-paragraph {
+  font-size: 28px;
+}
+.button {
+  color: #ffffff;
+  background-color: #2562c4;
+  border: none;
+  border-radius: 28px;
+  font-size: 18px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.watch {
+  height: 600px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #ffffff;
+  padding-left: 18%;
+}

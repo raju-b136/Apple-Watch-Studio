@@ -1,0 +1,22 @@
+.container {
+  margin-top: 75px;
+  margin-left: 100px;
+  font-family: sans-serif;
+}
+
+.new {
+  font-weight: bold;
+  color: maroon;
+}
+
+.text {
+  margin-top: -8px;
+}
+
+.price1 {
+  margin-top: -8px;
+}
+.length {
+  height: 300px;
+  width: 300px;
+}

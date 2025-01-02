@@ -1,0 +1,29 @@
+.detailsContainer {
+  font-family: sans-serif;
+}
+.watchImg {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  height: 350px;
+}
+.ViewText {
+  font-size: 14px;
+  color: #2562c4;
+  text-decoration: underline;
+}
+.watchName {
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: -5px;
+}
+.watchModel {
+  font-size: 15px;
+  color: #808080;
+  margin-top: -2px;
+}
+
+.price {
+  font-size: 15px;
+  color: #808080;
+  margin-top: -4px;
+}

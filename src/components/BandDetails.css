@@ -1,0 +1,78 @@
+.watchband {
+  height: 295px;
+  width: 302px;
+  position: absolute;
+  margin-top: 130px;
+  margin-left: -150px;
+  top: 0;
+}
+.watchBandHide {
+  display: none;
+}
+.carousel-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+.carousel {
+  display: flex;
+  transition: transform 0.3s ease-in-out;
+}
+
+.left-space {
+  margin-left: 39%;
+}
+
+.left-space-1 {
+  margin-left: 20%;
+}
+
+.right-space {
+  margin-right: 39%;
+}
+
+.right-space-1 {
+  margin-right: 20%;
+}
+
+.band {
+  width: 300px;
+  height: 300px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.band img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.carousel-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  border-radius: 50px;
+  background-color: lightgray;
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  z-index: 1000;
+}
+
+.carousel-button.left {
+  left: 10px;
+}
+
+.carousel-button.right {
+  right: 10px;
+}
+.details-Component {
+  text-align: center;
+  margin-top: 40px;
+}

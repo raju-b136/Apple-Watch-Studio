@@ -1,0 +1,71 @@
+.band3 {
+  height: 100px;
+  width: 100px;
+}
+.band3-1 {
+  height: 100px;
+  width: 100px;
+}
+.watchBandHide3 {
+  display: none;
+}
+
+.carousel-container3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.carousel3 {
+  display: flex;
+  transition: transform 0.3s ease-in-out;
+}
+
+.left-space-2 {
+  margin-left: 30%;
+}
+
+.right-space-2 {
+  margin-right: 30%;
+}
+
+.band3-1 {
+  height: 270px;
+  width: 410px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.band3 {
+  height: 300px;
+  width: 450px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.carousel-button3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  border-radius: 50px;
+  background-color: lightgray;
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  z-index: 1000;
+}
+
+.carousel-button3.left3 {
+  left: 10px;
+}
+
+.carousel-button3.right3 {
+  right: 10px;
+}
+.details-Component3 {
+  text-align: center;
+  margin-top: 20px;
+}
